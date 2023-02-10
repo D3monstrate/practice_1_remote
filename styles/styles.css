@@ -1,11 +1,18 @@
 body {
     background-color: antiquewhite;
+    margin: 20px;
 }
 
 h1 {
     color: maroon;
 }
 
+<<<<<<< HEAD
 h2 {
     color: navy;
+=======
+p {
+    color: darkgreen;
+    font-size: 120%;
+>>>>>>> main
 }
